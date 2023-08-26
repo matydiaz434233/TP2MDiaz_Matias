@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF0000" /> <!-- Color rojo, puedes cambiarlo -->
+    <size android:width="24dp" android:height="24dp" /> <!-- Ajusta el tamaño -->
+    <corners android:radius="12dp" /> <!-- Radio para hacerlo redondo -->
+</shape>
